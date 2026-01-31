@@ -1,0 +1,25 @@
+{
+  "name": "module-4-evaluation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umme-Hani-Khanam/Module-4-Evaluation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Umme-Hani-Khanam/Module-4-Evaluation/issues"
+  },
+  "homepage": "https://github.com/Umme-Hani-Khanam/Module-4-Evaluation#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
